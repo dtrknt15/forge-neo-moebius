@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+weights/*
+!weights/custom/
+weights/custom/*
+!weights/custom/.gitkeep

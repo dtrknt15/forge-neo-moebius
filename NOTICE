@@ -1,0 +1,8 @@
+Forge Neo Moebius Masked Content Extension
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This extension incorporates inference modules from:
+- hustvl/Moebius (https://github.com/hustvl/Moebius) - Apache License 2.0
+- Companion VAE weights downloaded at runtime from hustvl/PixelHacker (https://huggingface.co/hustvl/PixelHacker) - MIT License
+
+UI integration patterns were inspired by forge-neo-lama-cleaner.
